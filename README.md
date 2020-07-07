@@ -5,7 +5,7 @@
 
 Fastest switch between Terraform workspaces 🏎.
 
-<!--![kubectx](/docs/kubectx.gif)-->
+![tfx](/docs/demo.gif)
 
 
 ### [⭐️ Download pre-built binaries ⭐️](https://github.com/FGRibreau/terraform-workspace-switcher/releases)
