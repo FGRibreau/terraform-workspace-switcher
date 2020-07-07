@@ -8,7 +8,7 @@ homepage = "https://github.com/FGRibreau/tfx"
 repository = "https://github.com/FGRibreau/tfx"
 description = "Easy switch between Terraform workspace"
 readme= "README.md"
-keywords= ["terraform", "infrastructure-as-code", "workspace"]
+keywords= ["terraform", "infrastructure", "workspace"]
 categories= ["command-line-utilities", "development-tools"]
 license= "MIT"
 [dependencies]
