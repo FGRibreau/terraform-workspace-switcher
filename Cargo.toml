@@ -1,0 +1,15 @@
+[package]
+name = "tfx"
+version = "1.0.0"
+authors = ["François-Guillaume RIBREAU <github@fgribreau.com>"]
+include = ["src/main.rs", "Cargo.toml", "README.md"]
+documentation = "https://docs.rs/tfx"
+homepage = "https://github.com/FGRibreau/tfx"
+repository = "https://github.com/FGRibreau/tfx"
+description = "Easy switch between Terraform workspace"
+readme= "README.md"
+keywords= ["terraform", "infrastructure-as-code", "workspace"]
+categories= ["command-line-utilities", "development-tools"]
+license= "MIT"
+[dependencies]
+dialoguer = "0.6.2"
